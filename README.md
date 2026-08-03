@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="assets/profile.jpeg" width="180" style="border-radius:50%;" />
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
 # Alfi Munadi
 
