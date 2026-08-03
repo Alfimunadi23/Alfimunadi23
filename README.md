@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/Alfimunadi23/Alfimunadi23/main/assets/banner.svg" width="100%" alt="Banner">
 </p>
 # Alfi Munadi
 
