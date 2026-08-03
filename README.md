@@ -1,33 +1,10 @@
+---
+
+### 📊 Statistik GitHub
+
 <div align="center">
-
-# ALFI MUNADI
-
-### Computational Geophysicist
-
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Alfimunadi23&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <br/>
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Alfimunadi23&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Alfimunadi23&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="35%" align="center">
-
-<img src="assets/profile.jpeg" width="280">
-
-</td>
-
-<td width="65%">
-
-## SYSTEM.INFO
-
-- **Name:** Alfi Munadi
-- **Role:** Computational Geophysicist
-- **University:** Universitas Syiah Kuala
-- **Program:** Master of Physics
-- **Location:** Banda Aceh, Indonesia
-
-</td>
-
-</tr>
-</table>
