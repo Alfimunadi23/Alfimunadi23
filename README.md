@@ -1,53 +1,33 @@
-<h1 align="center">Hi 👋, I'm Alfi Munadi</h1>
+<div align="center">
 
-<h3 align="center">
-Computational Geophysicist | Master's Student in Physics
-</h3>
+# ALFI MUNADI
 
-<p align="center">
-Universitas Syiah Kuala
-</p>
+### Computational Geophysicist
 
----
+</div>
 
-## 👨‍💻 About Me
+<br>
 
-- 🎓 Master's Student in Physics at Universitas Syiah Kuala
-- 🌍 Based in Banda Aceh, Indonesia
-- 🔬 Research Interests:
-  - Gravity Modelling
-  - Gravity Inversion
-  - Machine Learning
-- 🌱 Currently Learning:
-  - Deep Learning
-  - PyTorch
+<table>
+<tr>
 
----
+<td width="35%" align="center">
 
-## 💻 Programming Languages
+<img src="assets/profile.jpeg" width="280">
 
-- Python
-- MATLAB
-- Fortran
-- R
+</td>
 
----
+<td width="65%">
 
-## 🛠 Software & Tools
+## SYSTEM.INFO
 
-- VS Code
-- Git
-- GMT
-- Surfer
+- **Name:** Alfi Munadi
+- **Role:** Computational Geophysicist
+- **University:** Universitas Syiah Kuala
+- **Program:** Master of Physics
+- **Location:** Banda Aceh, Indonesia
 
----
+</td>
 
-## 📫 Contact
-
-📧 Email
-
-alfimnd31@email.com
-
-LinkedIn
-
-https://www.linkedin.com/in/alfi-munadi-610966417/
+</tr>
+</table>
